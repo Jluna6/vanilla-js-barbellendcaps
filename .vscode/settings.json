@@ -1,3 +1,4 @@
 {
-  "liveSassCompile.settings.autoprefix": []
+  "liveSassCompile.settings.autoprefix": [],
+  "editor.guides.bracketPairs": true
 }
