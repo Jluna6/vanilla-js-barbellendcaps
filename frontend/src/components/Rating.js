@@ -22,7 +22,8 @@ const Rating = {
           : props.value >= 1.5
           ? "fa fa-star-half-o"
           : "fa fa-star-o"
-      }">
+      }"  
+      >
       </i>
       </span>  
       <span>
@@ -32,7 +33,8 @@ const Rating = {
           : props.value >= 2.5
           ? "fa fa-star-half-o"
           : "fa fa-star-o"
-      }">
+      }" 
+      >
       </i>
     </span>  
     <span>
