@@ -5,7 +5,7 @@ const Header = {
     const { name } = getUserInfo();
     return ` 
   <div class="brand">
-    <a href="/#/">jsamazona</a>
+    <a href="/#/">barbellendcaps</a>
   </div>
   <div>
   ${
