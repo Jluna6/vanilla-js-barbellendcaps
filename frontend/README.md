@@ -239,3 +239,16 @@ Vanilla JS barbellEndCaps
     7. copy shipping screen and as payment screen
     8. define getPayment and setPayment
     9. redirect user to PlaceOrder.js
+27. PlaceOrder Screen UI
+    1. create PlaceOrder.js
+    2. style elements
+28. PlaceOrder Screen Action
+    1. handle form submit
+    2. create backend api to create order
+29. Order Screen
+    1. create OrderScreen.js
+    2. style elements
+30. PayPal Payment
+    1. add paypal checkout script
+    2. show paypal button
+    3. update order after payment
